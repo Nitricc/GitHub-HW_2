@@ -1,0 +1,10 @@
+Header (Заголовок)
+Description (Описание)
+Precondition (Предварительные шаги)
+Steps (Шаги для воспроизведения)
+Expected result (Ожидаемый результат)
+Actual result (Фактический результат)
+Attachments (Скрин/логи/видео)
+Severity (с точки зрения разработчки)/Priority (с точки зрения бизнеса)
+Environment (Окружение)
+Другие доп поля
